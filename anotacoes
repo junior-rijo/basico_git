@@ -1,0 +1,12 @@
+git show mostra os commit
+
+git branch - criar uma nova branch a partir da antiga
+
+git marge e o nome da alteração para adcionar a nova branch criada ao branch master
+
+deletar  a branch antiga git branch -D e o nome
+
+subindo projeto na nuvem
+git remote add origin passando o link do nosso repositorio 
+
+git push -u origin master para enviar as alterações na primeira vez
